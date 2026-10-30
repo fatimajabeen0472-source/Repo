@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(224, 163, 224);
+    text-align: center;
+    color: white;
+}
+p{
+    color: darkmagenta;
+    font-size: larger;
+    font-style: italic;
+}
+button {
+    background-color: rgb(204, 178, 228);
+    padding: 5px 10px;
+    border: 2px solid rgb(235, 185, 235);
+    width: 200px;
+    display: block;
+    margin: auto;
+    color: white;
+}
